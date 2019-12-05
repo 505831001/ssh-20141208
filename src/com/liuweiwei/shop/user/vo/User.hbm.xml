@@ -4,7 +4,7 @@
     "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
     
 <hibernate-mapping>
-	<class name="cn.itcast.shop.user.vo.User" table="user">
+	<class name="com.liuweiwei.shop.user.vo.User" table="user">
 		<id name="uid">
 			<generator class="native"/>
 		</id>
@@ -19,7 +19,7 @@
 		
 		<set name="orders" cascade="delete">
 			<key column="uid"/>
-			<one-to-many class="cn.itcast.shop.order.vo.Order"/>
+			<one-to-many class="com.liuweiwei.shop.order.vo.Order"/>
 		</set>
 	</class>
 </hibernate-mapping>

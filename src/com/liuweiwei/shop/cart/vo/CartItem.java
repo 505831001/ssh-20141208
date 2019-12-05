@@ -1,16 +1,11 @@
 package com.liuweiwei.shop.cart.vo;
 
-import cn.itcast.shop.product.vo.Product;
+import com.liuweiwei.shop.product.vo.Product;
 
-/**
- * 购物项对象
- * @author 传智.郭嘉
- *
- */
 public class CartItem {
-	private Product product;	// 购物项中商品信息
-	private int count;			// 购买某种商品数量
-	private double subtotal;	// 购买某种商品小计
+	private Product product;
+	private int count;
+	private double subtotal;
 	public Product getProduct() {
 		return product;
 	}
@@ -23,13 +18,7 @@ public class CartItem {
 	public void setCount(int count) {
 		this.count = count;
 	}
-	// 小计自动计算的.
 	public double getSubtotal() {
 		return count * product.getShop_price();
 	}
-	/*public void setSubtotal(double subtotal) {
-		this.subtotal = subtotal;
-	}
-	*/
-	
 }

@@ -2,13 +2,8 @@ package com.liuweiwei.shop.product.vo;
 
 import java.util.Date;
 
-import cn.itcast.shop.categorysecond.vo.CategorySecond;
+import com.liuweiwei.shop.categorysecond.vo.CategorySecond;
 
-/**
- * 商品的实体对象
- * @author 传智.郭嘉
- *
- */
 public class Product {
 	private Integer pid;
 	private String pname;
@@ -18,7 +13,6 @@ public class Product {
 	private String pdesc;
 	private Integer is_hot;
 	private Date pdate;
-	// 二级分类的外键:使用二级分类的对象.
 	private CategorySecond categorySecond;
 	public Integer getPid() {
 		return pid;
@@ -74,5 +68,4 @@ public class Product {
 	public void setCategorySecond(CategorySecond categorySecond) {
 		this.categorySecond = categorySecond;
 	}
-	
 }

@@ -3,7 +3,7 @@
     "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
     "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
 <hibernate-mapping>
-	<class name="cn.itcast.shop.order.vo.OrderItem" table="orderitem">
+	<class name="com.liuweiwei.shop.order.vo.OrderItem" table="orderitem">
 		<id name="itemid">
 			<generator class="native"/>
 		</id>
@@ -11,8 +11,8 @@
 		<property name="count"/>
 		<property name="subtotal"/>
 		
-		<many-to-one name="product" lazy="false" class="cn.itcast.shop.product.vo.Product" column="pid"></many-to-one>
+		<many-to-one name="product" lazy="false" class="com.liuweiwei.shop.product.vo.Product" column="pid"></many-to-one>
 		
-		<many-to-one name="order" class="cn.itcast.shop.order.vo.Order" column="oid"/>
+		<many-to-one name="order" class="com.liuweiwei.shop.order.vo.Order" column="oid"/>
 	</class>
 </hibernate-mapping>

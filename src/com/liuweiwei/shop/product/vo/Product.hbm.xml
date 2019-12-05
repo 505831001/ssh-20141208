@@ -3,7 +3,7 @@
     "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
     "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
 <hibernate-mapping>
-	<class name="cn.itcast.shop.product.vo.Product" table="product">
+	<class name="com.liuweiwei.shop.product.vo.Product" table="product">
 		<id name="pid">
 			<generator class="native"/>
 		</id>
@@ -15,6 +15,6 @@
 		<property name="is_hot"/>
 		<property name="pdate"/>
 		
-		<many-to-one name="categorySecond" lazy="false" class="cn.itcast.shop.categorysecond.vo.CategorySecond" column="csid"/>
+		<many-to-one name="categorySecond" lazy="false" class="com.liuweiwei.shop.categorysecond.vo.CategorySecond" column="csid"/>
 	</class>
 </hibernate-mapping>

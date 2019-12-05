@@ -1,9 +1,5 @@
 package com.liuweiwei.shop.adminuser.vo;
-/**
- * 后台用户登录实体
- * @author 传智.郭嘉
- *
- */
+
 public class AdminUser {
 	private Integer uid;
 	private String username;
@@ -26,5 +22,4 @@ public class AdminUser {
 	public void setPassword(String password) {
 		this.password = password;
 	}
-	
 }

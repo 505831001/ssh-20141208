@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="754f55ed-5c24-4940-bf69-c473ee73cd8f" name="Default Changelist" comment="" />
+    <list default="true" id="754f55ed-5c24-4940-bf69-c473ee73cd8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/action/AdminUserAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/action/AdminUserAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/dao/AdminUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/dao/AdminUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/service/AdminUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/service/AdminUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/vo/AdminUser.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/vo/AdminUser.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/vo/AdminUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/vo/AdminUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/cart/action/CartAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/cart/action/CartAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/cart/vo/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/cart/vo/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/cart/vo/CartItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/cart/vo/CartItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/category/adminaction/AdminCategoryAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/category/adminaction/AdminCategoryAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/category/dao/CategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/category/dao/CategoryDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/category/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/category/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/category/vo/Category.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/category/vo/Category.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/category/vo/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/category/vo/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/adminaction/AdminCategorySecondAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/adminaction/AdminCategorySecondAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/dao/CategorySecondDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/dao/CategorySecondDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/service/CategorySecondService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/service/CategorySecondService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/vo/CategorySecond.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/vo/CategorySecond.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/vo/CategorySecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/vo/CategorySecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/index/action/IndexAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/index/action/IndexAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/interceptor/PrivilegeInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/interceptor/PrivilegeInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/action/OrderAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/action/OrderAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/adminaction/AdminOrderAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/adminaction/AdminOrderAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/dao/OrderDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/dao/OrderDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/Order.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/Order.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/OrderItem.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/OrderItem.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/product/action/ProductAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/product/action/ProductAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/product/adminaction/AdminProductAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/product/adminaction/AdminProductAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/product/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/product/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/product/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/product/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/product/vo/Product.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/product/vo/Product.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/product/vo/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/product/vo/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/action/CheckImgAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/action/CheckImgAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/action/UserAction-user_regist-validation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/action/UserAction-user_regist-validation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/action/UserAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/action/UserAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/adminaction/UserAdminAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/adminaction/UserAdminAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/vo/User.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/vo/User.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/vo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/user/vo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/utils/MailUitls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/utils/MailUitls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liuweiwei/shop/utils/UUIDUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liuweiwei/shop/utils/UUIDUtils.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +58,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/utils/MailUitls.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+              <folding>
+                <element signature="e#1786#1787#0" expanded="true" />
+                <element signature="e#1834#1835#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,6 +90,9 @@
       <replace>com.liuweiwei</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="2f6f11d0-39ef-485e-89a3-d8bbceeca9ab" />
   </component>
@@ -41,24 +103,63 @@
         <option value="$PROJECT_DIR$/src/log4j.properties" />
         <option value="$PROJECT_DIR$/src/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/struts.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/OrderItem.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/product/vo/Product.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/user/vo/User.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/action/AdminUserAction.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/dao/AdminUserDao.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/service/AdminUserService.java" />
         <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/vo/AdminUser.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/vo/AdminUser.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/cart/action/CartAction.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/cart/vo/Cart.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/cart/vo/CartItem.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/category/adminaction/AdminCategoryAction.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/category/dao/CategoryDao.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/category/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/category/vo/Category.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/category/vo/Category.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/adminaction/AdminCategorySecondAction.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/dao/CategorySecondDao.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/service/CategorySecondService.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/vo/CategorySecond.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/vo/CategorySecond.hbm.xml" />
         <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/index/action/IndexAction.java" />
         <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/interceptor/PrivilegeInterceptor.java" />
         <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/order/action/OrderAction.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/order/adminaction/AdminOrderAction.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/order/dao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/order/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/Order.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/Order.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/OrderItem.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/product/action/ProductAction.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/product/adminaction/AdminProductAction.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/product/dao/ProductDao.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/product/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/product/vo/Product.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/user/action/CheckImgAction.java" />
         <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/user/action/UserAction.java" />
-        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/user/action/UserAction-user_regist-validation.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/user/adminaction/UserAdminAction.java" />
         <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/user/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/src/struts.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/mysql.sql" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/user/vo/User.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/utils/UUIDUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/shop/utils/MailUitls.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1392" />
     <option name="y" value="289" />
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -87,7 +188,54 @@
               <item name="ssh-20141208" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
-              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssh-20141208" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssh-20141208" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssh-20141208" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssh-20141208" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="adminaction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssh-20141208" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssh-20141208" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssh-20141208" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssh-20141208" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssh-20141208" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssh-20141208" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssh-20141208" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssh-20141208" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ssh-20141208" type="b2602c69:ProjectViewProjectNode" />
@@ -179,17 +327,26 @@
       <workItem from="1575203532253" duration="2480000" />
       <workItem from="1575249880227" duration="2429000" />
       <workItem from="1575253038548" duration="24000" />
-      <workItem from="1575547334256" duration="1575000" />
+      <workItem from="1575547334256" duration="4166000" />
     </task>
+    <task id="LOCAL-00001" summary="v1.0">
+      <created>1575549118170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575549118170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7574000" />
+    <option name="totallyTimeSpent" value="10165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1392" y="289" width="1382" height="754" extended-state="0" />
+    <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26399395" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18603411" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -197,6 +354,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="MyBatis Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -207,7 +365,7 @@
       <window_info anchor="bottom" id="Application Servers" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -226,108 +384,469 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/js/dtree.js">
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/struts.xml">
+      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/action/AdminUserAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="475">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/cart.jsp">
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/dao/AdminUserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2027">
-          <caret selection-end-line="1" />
+        <state relative-caret-position="190">
+          <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#50#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4839" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/menu.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/msg.jsp">
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/service/AdminUserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="104" selection-start-line="16" selection-start-column="104" selection-end-line="16" selection-end-column="104" />
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/order.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/orderList.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/product.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/productList.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/regist.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/vo/AdminUser.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/adminuser/vo/AdminUser.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/cart/action/CartAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="e#1168#1169#0" expanded="true" />
+            <element signature="e#1190#1191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/cart/vo/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/cart/vo/CartItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/category/action/CategoryAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/category/adminaction/AdminCategoryAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/category/dao/CategoryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#13#1" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/category/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/category/vo/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/category/vo/Category.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/adminaction/AdminCategorySecondAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="5" lean-forward="true" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+            <element signature="e#1223#1224#0" expanded="true" />
+            <element signature="e#1260#1261#0" expanded="true" />
+            <element signature="e#1288#1289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/dao/CategorySecondDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#35#1" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1181#1182#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1457#1458#0" expanded="true" />
+            <element signature="e#0#19#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/service/CategorySecondService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="43" lean-forward="true" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#717#733#0" expanded="true" />
+            <element signature="e#1370#1371#0" expanded="true" />
+            <element signature="e#1415#1416#0" expanded="true" />
+            <element signature="e#1487#1488#0" expanded="true" />
+            <element signature="e#1534#1535#0" expanded="true" />
+            <element signature="e#1603#1604#0" expanded="true" />
+            <element signature="e#1651#1652#0" expanded="true" />
+            <element signature="e#1722#1723#0" expanded="true" />
+            <element signature="e#1769#1770#0" expanded="true" />
+            <element signature="e#1833#1834#0" expanded="true" />
+            <element signature="e#1874#1875#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/vo/CategorySecond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="e#413#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/categorysecond/vo/CategorySecond.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/index/action/IndexAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/interceptor/PrivilegeInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/order/action/OrderAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2621">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="2888">
+          <caret line="152" column="5" lean-forward="true" selection-start-line="152" selection-start-column="5" selection-end-line="152" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
+            <element signature="e#1278#1279#0" expanded="true" />
+            <element signature="e#1393#1394#0" expanded="true" />
+            <element signature="e#1432#1433#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/order/adminaction/AdminOrderAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        <state relative-caret-position="703">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/order/dao/OrderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="53" column="58" lean-forward="true" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#49#1" expanded="true" />
+            <element signature="e#0#26#1" expanded="true" />
+            <element signature="e#0#40#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/order/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="73" column="43" lean-forward="true" selection-start-line="73" selection-start-column="43" selection-end-line="73" selection-end-column="43" />
+          <folding>
+            <element signature="e#679#686#0" expanded="true" />
+            <element signature="e#1550#1557#0" expanded="true" />
+            <element signature="e#2158#2159#0" expanded="true" />
+            <element signature="e#2199#2200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/Order.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/order/vo/OrderItem.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/product/action/ProductAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="57" column="77" selection-start-line="57" selection-start-column="77" selection-end-line="57" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/product/adminaction/AdminProductAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+          <folding>
+            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/product/dao/ProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="96" column="52" lean-forward="true" selection-start-line="96" selection-start-column="52" selection-end-line="96" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#70#1" expanded="true" />
+            <element signature="e#0#62#1" expanded="true" />
+            <element signature="e#0#28#1" expanded="true" />
+            <element signature="e#3732#3733#0" expanded="true" />
+            <element signature="e#3780#3781#0" expanded="true" />
+            <element signature="e#3837#3838#0" expanded="true" />
+            <element signature="e#3887#3888#0" expanded="true" />
+            <element signature="e#3927#3928#0" expanded="true" />
+            <element signature="e#3977#3978#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/product/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/product/vo/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/product/vo/Product.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/user/action/UserAction-user_regist-validation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/user/action/UserAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="722">
+          <caret line="88" column="5" lean-forward="true" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/user/service/UserService.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/user/action/CheckImgAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        <state relative-caret-position="494">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#1322#1328#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/user/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-303">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="171">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#0#26#1" expanded="true" />
             <element signature="e#0#24#1" expanded="true" />
             <element signature="e#0#59#1" expanded="true" />
             <element signature="e#0#25#1" expanded="true" />
@@ -335,59 +854,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/user/adminaction/UserAdminAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        <state relative-caret-position="646">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/user/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="138" column="4" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/interceptor/PrivilegeInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="703">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/struts.xml">
-      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider" />
+    <entry file="file://$PROJECT_DIR$/src/mysql.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/index/action/IndexAction.java">
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/user/vo/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="320">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/user/vo/User.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/utils/PageBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/utils/PageHibernateCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/utils/UUIDUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/utils/PaymentUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/shop/utils/MailUitls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding>
+            <element signature="e#1786#1787#0" expanded="true" />
+            <element signature="e#1834#1835#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
